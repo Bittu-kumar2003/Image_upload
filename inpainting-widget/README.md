@@ -1,4 +1,5 @@
-# Canvas Drawing App
+# Image Inpainting Widget 
+
 
 A feature-rich web application that allows users to upload an image, draw on it with a customizable brush, erase, and export the edited image. This app is easy to set up and use, making it perfect for quick edits and annotations.
 
@@ -39,13 +40,13 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Bittu-kumar2003/Image_upload.git
+   https://github.com/Bittu-kumar2003/Image_upload.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd canvas-drawing-app
+   cd inpainting-widget
    ```
 
 3. Install dependencies:
@@ -63,7 +64,7 @@ Ensure you have the following installed:
 5. Open your browser and navigate to:
 
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
@@ -93,7 +94,7 @@ Ensure you have the following installed:
 ## Project Structure
 
 ```plaintext
-canvas-drawing-app/
+ipainting-widget/
 ├── public/
 │   └── index.html
 ├── src/
@@ -118,11 +119,13 @@ Visit the [GitHub Repository](https://github.com/Bittu-kumar2003/Image_upload.gi
 
 ### Canvas Interface
 
-![Canvas Interface Screenshot](./screenshots/canvas-interface.png)
+
+![Screenshot (68)](https://github.com/user-attachments/assets/bd375aa2-da87-428d-a48c-5f7d8048ac38)
 
 ### Exported Image
 
-![Exported Image Screenshot](./screenshots/exported-image.png)
+
+![Screenshot (69)](https://github.com/user-attachments/assets/b24e16a4-6d4a-44b7-b3b3-e836c8842def)
 
 ---
 
