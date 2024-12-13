@@ -15,13 +15,11 @@ A feature-rich web application that allows users to upload an image, draw on it 
 
 ## Table of Contents
 
-1. [Demo](#demo)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Deployment](#deployment)
-5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
-7. [License](#license)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Project Structure](#project-structure)
+4. [GitHub Repository](#github-repository)
+5. [Screenshots](#screenshots)
 
 ---
 
@@ -41,7 +39,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/canvas-drawing-app.git
+   git clone https://github.com/Bittu-kumar2003/Image_upload.git
    ```
 
 2. Navigate to the project directory:
@@ -92,8 +90,6 @@ Ensure you have the following installed:
 
 ---
 
-
-
 ## Project Structure
 
 ```plaintext
@@ -112,55 +108,25 @@ canvas-drawing-app/
 
 ---
 
-## Contributing
-
-Contributions are welcome! Follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature description"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch-name
-   ```
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## GitHub Repository
 
-Visit the [GitHub Repository]([https://github.com/your-repo/canvas-drawing-app](https://github.com/Bittu-kumar2003/Image_upload.git)) to view the source code and more details.
+Visit the [GitHub Repository](https://github.com/Bittu-kumar2003/Image_upload.git) to view the source code and more details.
 
 ---
 
-# Screenshots
+## Screenshots
 
-#Canvas Interface
+### Canvas Interface
 
 ![Canvas Interface Screenshot](./screenshots/canvas-interface.png)
 
-# Exported Image
+### Exported Image
 
 ![Exported Image Screenshot](./screenshots/exported-image.png)
 
+---
 
-
-
-
-
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -168,3 +134,4 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
