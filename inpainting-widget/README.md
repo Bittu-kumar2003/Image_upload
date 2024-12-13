@@ -25,14 +25,6 @@ A feature-rich web application that allows users to upload an image, draw on it 
 
 ---
 
-## Demo
-
-![App Screenshot](./screenshots/demo.png)
-
-> **Note**: Replace `./screenshots/demo.png` with the actual path to your screenshot.
-
----
-
 ## Installation
 
 Follow these steps to set up the project locally:
@@ -100,26 +92,7 @@ Ensure you have the following installed:
 
 ---
 
-## Deployment
 
-Deploy this application online using platforms like [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
-
-### Steps for Deployment:
-
-1. Build the project:
-
-   ```bash
-   npm run build
-   ```
-
-2. Deploy the `build/` folder to your hosting provider.
-
-### Example Deployment Links
-
-- [Live Demo on Vercel](https://your-vercel-link.com)
-- [Live Demo on Netlify](https://your-netlify-link.com)
-
----
 
 ## Project Structure
 
@@ -168,7 +141,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## GitHub Repository
 
-Visit the [GitHub Repository](https://github.com/your-repo/canvas-drawing-app) to view the source code and more details.
+Visit the [GitHub Repository]([https://github.com/your-repo/canvas-drawing-app](https://github.com/Bittu-kumar2003/Image_upload.git)) to view the source code and more details.
 
 ---
 
