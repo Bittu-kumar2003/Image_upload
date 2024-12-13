@@ -9,7 +9,7 @@ const Header = () => {
           <p>Upload an image, draw with a brush, and export your work.</p>
         </div>
         <a
-          href="https://github.com/your-repo" // Replace this with your actual GitHub repository URL
+          href="https://github.com/Bittu-kumar2003/Image_upload/tree/main/inpainting-widget" 
           target="_blank"
           rel="noopener noreferrer"
           style={logoLinkStyles}
